@@ -1,7 +1,7 @@
 # OutlastTrials-ConfigChanges
 Config files changes for outlast trials optimization / personal preferences
 
-### Engine.ini
+## Engine.ini
 Mostly optimizations for UE4 (documentation found at: https://pongrit.github.io/ )
 As well as removing effects like fog, Chromatic Aberration and such. A fair amount of the changes are from an already existing PAYDAY 3 config that can be found on Nexus Mods, the rest was added by me.
 
@@ -11,7 +11,7 @@ Also makes indoor maps look better (imo) revealing more on the roof of the maps,
 In case you only want to remove major cluttery effects like mentionned above (fog, film grain, etc...)
 use the changes in the engine.ini file from the "remove only effects" folder.
 
-### Game.ini
+## Game.ini
 Changes FOV (Field of View) values. Default is 90, mine is on 110, put whichever you'd like
 
 ## Delete Intro Video
