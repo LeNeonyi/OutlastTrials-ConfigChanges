@@ -8,6 +8,9 @@ As well as removing effects like fog, Chromatic Aberration and such. A fair amou
 Removing those effects make night vision look exactly like no night vision, + the green filter on. No more weird noise and distortion effect, that makes it hard to read from afar.
 Also makes indoor maps look better (imo) revealing more on the roof of the maps, and make it look better when looking far ahead of you.
 
+In case you only want to remove major cluttery effects like mentionned above (fog, film grain, etc...)
+use the changes in the engine.ini file from the "remove only effects" folder.
+
 ### Game.ini
 Changes FOV (Field of View) values. Default is 90, mine is on 110, put whichever you'd like
 
